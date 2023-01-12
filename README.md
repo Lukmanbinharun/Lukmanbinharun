@@ -1,7 +1,6 @@
 ### Hi there 👋, my name is Lukman
 #### I am a Learner, Problem solver, Developer.
-![I am a Learner, Problem solver, Developer.](https://scontent.fdac24-4.fna.fbcdn.net/v/t31.18172-8/20368822_1339392416176631_7615472444071078686_o.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFvcl9Z8seO-uMThn0s617hLtRi6zv8KlMu1GLrO_wqU5tOVS69odsd8tdTSKSIrc1EfJfwFPqlvhB0InwQVZ4s&_nc_ohc=Ojn5qVmMY4sAX8eh3nm&_nc_ht=scontent.fdac24-4.fna&oh=00_AfA1QBnUE6uytFM7w-kXCTxV5yK5-Owbyjh9l6GpbWhdKw&oe=63E6E23E)
-
+![I am a Learner, Problem solver, Developer.]
 ✔I am a students of Phitron CSE fundamental course.
 
 Skills: C/C++/Phyton
