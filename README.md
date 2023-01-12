@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Lukman
 #### I am a Learner, Problem solver, Developer.
-![I am a Learner, Problem solver, Developer.]
+
 ✔I am a students of Phitron CSE fundamental course.
 
 Skills: C/C++/Phyton
